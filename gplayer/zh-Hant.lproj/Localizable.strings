@@ -1,0 +1,11 @@
+
+/* 
+  Localizable.strings
+  gplayer
+
+  Created by DoubleLight on 2020/9/16.
+  Copyright © 2020 dminoror. All rights reserved.
+*/
+
+"tabbar_item_playlists" = "播放列表";
+"tabbar_item_drives" = "雲端硬碟";

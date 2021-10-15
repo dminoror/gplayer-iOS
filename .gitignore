@@ -1,0 +1,9 @@
+**/.DS_Store
+./build
+Pods/
+xcuserdata
+*/xcuserdata/*
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+DerivedData
